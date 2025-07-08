@@ -2,6 +2,8 @@
 
 A sophisticated, enterprise-grade implementation of the classic Simon memory game built with modern JavaScript ES6+ features, advanced CSS animations, and professional software development practices.
 
+🔗 Live Demo: [Click here to play the Simon Game](https://Mayur241202.github.io/Simon-Game/)
+
 ## 🚀 **Professional JavaScript Features Demonstrated**
 
 ### **Core JavaScript Concepts**
